@@ -1,0 +1,7 @@
+cython
+numpy<2.0
+torch==2.4.0
+torchaudio==2.4.0
+transformers==4.42.4
+git+https://github.com/coqui-ai/TTS.git
+gradio
