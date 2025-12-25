@@ -1,3 +1,6 @@
+edit this this readme.md to the appropriate format
+
+
 ```markdown
 # 🎙️ Zero-Shot Neural Voice Cloning WebUI
 
@@ -35,8 +38,7 @@ The core engine is built upon the **XTTS v2** architecture, which utilizes:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/voice-clone-webui.git](https://github.com/your-username/voice-clone-webui.git)
-cd voice-clone-webui
+git clone https://github.com/k-mend/AI-Voice-Clone.git
 
 ```
 
@@ -115,3 +117,4 @@ Contributions are welcome! Please submit a Pull Request for optimizations, UI en
 ```
 
 ```
+
