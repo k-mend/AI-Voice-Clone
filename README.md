@@ -1,13 +1,4 @@
 ````markdown
-# 🎙️ Zero-Shot Neural Voice Cloning WebUI
-
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.4-EE4C2C?logo=pytorch)
-![Gradio](https://img.shields.io/badge/Gradio-4.0-orange?logo=gradio)
-![Hugging Face](https://img.shields.io/badge/Deployment-Hugging%20Face%20Spaces-yellow)
-
----
-
 ## 📑 Abstract
 
 This repository provides a lightweight, browser-based inference interface for **XTTS v2 (Coqui TTS)**, a state-of-the-art autoregressive text-to-speech model. The system supports **zero-shot voice cloning**, allowing voice transfer from a short (~6 second) reference audio clip **without any fine-tuning or retraining**.
