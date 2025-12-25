@@ -172,12 +172,5 @@ Feel free to submit pull requests for:
 ---
 
 ```
-
-If you want, I can also:
-- Optimize it for **Hugging Face Spaces README standards**
-- Add **example screenshots / audio samples**
-- Rewrite it for **academic / research paper tone**
-- Create a **short README** for GitHub landing pages
-
-Just tell me 👍
+Made with Love for the Opensource Community ❤️
 ```
